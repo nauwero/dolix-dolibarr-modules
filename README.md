@@ -4,6 +4,7 @@ Modules for [Dolibarr ERP/CRM](https://www.dolibarr.org/), the open-source ERP: 
 
 - Website, screenshots and online demo: https://dolix.fr/en/modules/
 - Bought on the [DoliStore](https://www.dolistore.com/) (official Dolibarr marketplace) or directly on [dolix.fr](https://dolix.fr/en/modules/) by businesses and associations in any country. [Dolix Pass](https://dolix.fr/en/pass/): every module and its updates for €249 a year.
+- **TakePOS Till Pack**: TakePOS cash closing + Multiple barcodes + Orders to collect + Direct printing for €149 instead of €226 — https://dolix.fr/en/buy/pack-caisse/
 - Licence: GPL v3 or later. Support by email: support@dolix.fr (English, French, German).
 
 This repository is a catalogue (descriptions only). The module code is delivered with each purchase.
